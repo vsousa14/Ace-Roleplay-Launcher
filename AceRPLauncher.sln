@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AceRPLauncher", "AceRPLauncher\AceRPLauncher.csproj", "{657E25A0-5FE1-44A8-AD7F-90790AF64822}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AceRPLauncherSetup", "AceRPLauncherSetup\AceRPLauncherSetup.vdproj", "{A0A2D4A4-D529-46ED-A4D6-BDBEEEA618C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpUpdate", "SharpUpdate\SharpUpdate.csproj", "{811C1D69-764F-4335-8363-B93A1D106268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657E25A0-5FE1-44A8-AD7F-90790AF64822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657E25A0-5FE1-44A8-AD7F-90790AF64822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657E25A0-5FE1-44A8-AD7F-90790AF64822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657E25A0-5FE1-44A8-AD7F-90790AF64822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A2D4A4-D529-46ED-A4D6-BDBEEEA618C0}.Debug|Any CPU.ActiveCfg = Release
+		{A0A2D4A4-D529-46ED-A4D6-BDBEEEA618C0}.Release|Any CPU.ActiveCfg = Release
+		{811C1D69-764F-4335-8363-B93A1D106268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811C1D69-764F-4335-8363-B93A1D106268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811C1D69-764F-4335-8363-B93A1D106268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811C1D69-764F-4335-8363-B93A1D106268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30084FB1-5362-45B6-9414-CB3E60C86D90}
+	EndGlobalSection
+EndGlobal
